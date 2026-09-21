@@ -56,25 +56,8 @@ Existing work often examines technical drift, clinician acceptance, or organizat
 
 The contribution is explanatory rather than predictive: it investigates the conditions under which feedback and delays can support recovery, persistent decline, or functional abandonment.
 
-## Evidence and limitations
-
-The causal structure and plausible parameter ranges are informed by published research. Where transferable empirical estimates are unavailable, values are treated explicitly as assumptions and tested across ranges.
-
-The model:
-
-- uses no patient-level data;
-- is not calibrated to a specific hospital;
-- does not predict the future performance of a particular clinical system;
-- is intended for mechanism exploration and policy analysis.
 
 ## Tools
 
-Python · NumPy · pandas · SciPy · Matplotlib · System dynamics · Monte Carlo analysis
+Python · System dynamics · Monte Carlo analysis
 
-## Release scope
-
-The complete equations, final parameters, Model v2 notebook, detailed simulation results, and manuscript report remain private while the research is prepared for publication.
-
-## Status
-
-Model development and initial verification are complete. Literature validation and manuscript preparation are in progress.
