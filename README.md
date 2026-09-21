@@ -1,18 +1,18 @@
 # Sustaining Clinical AI After Deployment
 
-An exploratory system dynamics model of how technical performance, clinician trust and use, workflow conditions, and organizational response interact after clinical AI deployment.
+An exploratory system dynamics model of how technical performance, clinician trust and use, workflow conditions and organizational response interact after clinical AI deployment.
 
-> **Research in progress:** This repository is a protected public overview. The complete Model v2 implementation, parameter specification, experiments, and manuscript materials will be released after publication or preprint.
+> **Research in progress:** This repository is a protected public overview. The complete Model v2 implementation, parameter specification, experiments and manuscript materials will be released after publication or preprint.
 
 ## Research question
 
-How do changes in AI technical performance, clinician trust and use, and organizational monitoring and maintenance interact over time to determine whether a deployed clinical AI system remains sustainably used?
+How do changes in AI technical performance, clinician trust and use, organizational monitoring and maintenance interact over time to determine whether a deployed clinical AI system remains sustainably used?
 
 ## Motivation
 
-Strong pre-deployment validation does not guarantee that a clinical AI system will remain reliable or meaningfully used in practice. Performance can change after deployment, clinician trust and workflow fit evolve through experience, and organizational monitoring does not automatically translate into effective corrective action.
+Strong pre-deployment validation does not guarantee that a clinical AI system will remain reliable or meaningfully used in practice. Performance can change after deployment, clinician trust and workflow fit evolve through experience and organizational monitoring does not automatically translate into effective corrective action.
 
-This project treats sustainability as a dynamic outcome produced by feedback among technical, human, and organizational mechanisms.
+This project treats sustainability as a dynamic outcome produced by feedback among technical, human and organizational mechanisms.
 
 ## Conceptual structure
 
