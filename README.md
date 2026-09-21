@@ -50,6 +50,17 @@ The project uses:
 
 The intervention scenarios examine monitoring speed, corrective capacity, workflow support, clinician-facing support, organizational weakness, and coordinated policy packages.
 
+## Runnable toy model
+
+[`toy_model.py`](toy_model.py) is a small, dependency-free simulation of the public conceptual structure. It demonstrates bounded state updates, feedback, delays, and scenario parameters without reproducing the protected Model v2.
+
+```bash
+python toy_model.py
+python -m unittest test_toy_model.py
+```
+
+The script writes a synthetic 60-month trajectory to `toy_trajectory.csv`. It is educational and explanatory—not a clinical forecasting tool.
+
 ## Research contribution
 
 Existing work often examines technical drift, clinician acceptance, or organizational adoption separately. This project explores their interaction within one quantitative post-deployment lifecycle model.
@@ -60,4 +71,3 @@ The contribution is explanatory rather than predictive: it investigates the cond
 ## Tools
 
 Python · System dynamics · Monte Carlo analysis
-
